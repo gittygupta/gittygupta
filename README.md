@@ -4,6 +4,7 @@
 [<img align="left" alt="gittygupta | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
+<br />
 
 ![description](https://github.com/gittygupta/gittygupta/blob/main/des.jpg)
 
