@@ -1,4 +1,7 @@
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+#
+[<img align="left" alt="gittygupta | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gittygupta | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gittygupta | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -19,3 +22,5 @@
 -->
 
 [linkedin]: https://linkedin.com/in/aousnik
+[instagram]: https://instagr.am/_ag.py
+[gmail]: mailto:guptaaousnik@gmail.com
