@@ -1,3 +1,9 @@
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+![description](https://github.com/gittygupta/gittygupta/blob/main/des.jpg)
+
 <!---
 ```python
 - 🔭 I’m currently working on ...
@@ -12,4 +18,4 @@
 [![Aousnik's github stats](https://github-readme-stats.vercel.app/api?username=gittygupta&count_private=true&show_icons=true&theme=dracula&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![description](https://github.com/gittygupta/gittygupta/blob/main/des.jpg)
+[linkedin]: https://linkedin.com/in/aousnik
