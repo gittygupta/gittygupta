@@ -1,4 +1,5 @@
 ## Hi, I'm Aousnik 👋🏻👨🏻‍💻
+<!---
 ```python
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,5 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ```
-
 [![Aousnik's github stats](https://github-readme-stats.vercel.app/api?username=gittygupta&count_private=true&show_icons=true&theme=dracula&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+![description](https://github.com/gittygupta/gittygupta/blob/main/me.jpg)
