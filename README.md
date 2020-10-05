@@ -12,4 +12,4 @@
 [![Aousnik's github stats](https://github-readme-stats.vercel.app/api?username=gittygupta&count_private=true&show_icons=true&theme=dracula&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![description](https://github.com/gittygupta/gittygupta/blob/main/me.jpg)
+![description](https://github.com/gittygupta/gittygupta/blob/main/me.png)
