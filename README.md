@@ -1,4 +1,3 @@
-## Hi, I'm Aousnik 👋🏻👨🏻‍💻
 <!---
 ```python
 - 🔭 I’m currently working on ...
